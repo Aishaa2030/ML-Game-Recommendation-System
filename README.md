@@ -55,4 +55,12 @@ Interactive and scalable design
 
 Ready for integration with other gaming platforms
 
+# 🎮 Game Recommendation System
+
+This project demonstrates the process of building a game recommendation system using machine learning techniques.  
+
+📄 [View the Notebook](https://github.com/Aishaa2030/ML-Game-Recommendation-System/blob/main/Game_Recommendation_System.ipynb)  
+📑 [Download the PDF](https://github.com/Aishaa2030/ML-Game-Recommendation-System/blob/main/ML%20Recommendation%20System.pdf)
+
+
 
